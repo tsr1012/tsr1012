@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 
-Versatile Python developer specializing in web development, web scraping, and automation. Proficient in integrating HTML, CSS, and JavaScript to deliver dynamic and efficient solutions for diverse projects
+Versatile Python developer specializing in web development, web scraping, data analysis, and automation. Proficient in integrating HTML, CSS, and JavaScript to deliver dynamic and efficient solutions for diverse projects
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [vishtsr101299@gmail.com](mailto:vishtsr101299@gmail.com)
