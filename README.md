@@ -8,7 +8,7 @@ Versatile Python developer specializing in web development, web scraping, data a
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [vishtsr101299@gmail.com](mailto:vishtsr101299@gmail.com)
-* 🧠  I'm learning Web Development
+* 🧠  I'm currently learning React
 * 🤝  I'm open to collaborating on Python Projects
 
 ### Skills
